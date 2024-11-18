@@ -1,0 +1,8 @@
+Some basic commands to use git are:
+
+- git init : Initialized the git repository in the working folder
+- git status : See basic information about changes in your local repository
+- git add : add changed files to the staging aread
+- git commit : commit the changes to the repository
+- git log : See a list (log) of all the previous commits with their specific hash
+- git checkout --filename.ext-- : This allows you to revert a file in your working directory to the previous version
