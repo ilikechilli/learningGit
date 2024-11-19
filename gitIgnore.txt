@@ -1,1 +1,4 @@
 GitIgnore
+
+Set rules that will prevent comitting certain files to the repo
+
