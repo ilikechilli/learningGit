@@ -3,4 +3,3 @@ This file will describe how to clone a remote repository.
 simply find a repo you like and use command:
 
 git clone "url-to-repo"
-
