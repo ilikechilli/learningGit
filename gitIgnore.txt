@@ -2,3 +2,6 @@ GitIgnore
 
 Set rules that will prevent comitting certain files to the repo
 
+1. create a .gitignore file in the working folder.
+2. Add files that you don't want committed or stated to the .gitignore file by typing the file name on a new line.
+3. Save the .gitignore file.
